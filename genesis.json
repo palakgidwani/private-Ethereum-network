@@ -15,7 +15,6 @@
   "alloc": {
     "ADDRESS_1": { "balance": "1000000000000000000000" },
     "ADDRESS_2": { "balance": "500000000000000000000" }
-    // Add more addresses and balances as needed
   },
   "coinbase": "0x0000000000000000000000000000000000000000",
   "difficulty": "0x4000",
