@@ -1,0 +1,28 @@
+{
+  "config": {
+    "chainId": "my_custom_chain",
+    "homesteadBlock": 0,
+    "eip150Block": 0,
+    "eip150Hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+    "eip155Block": 0,
+    "eip158Block": 0,
+    "byzantiumBlock": 0,
+    "constantinopleBlock": 0,
+    "petersburgBlock": 0,
+    "istanbulBlock": 0,
+    "ethash": {}
+  },
+  "alloc": {
+    "ADDRESS_1": { "balance": "1000000000000000000000" },
+    "ADDRESS_2": { "balance": "500000000000000000000" }
+    // Add more addresses and balances as needed
+  },
+  "coinbase": "0x0000000000000000000000000000000000000000",
+  "difficulty": "0x4000",
+  "extraData": "0x",
+  "gasLimit": "0x2fefd8",
+  "nonce": "0x0000000000000042",
+  "mixHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+  "parentHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+  "timestamp": "0x00"
+}
